@@ -9,3 +9,4 @@ imbalanced-learn
 plotly
 folium
 streamlit-folium
+scikit-learn==1.3.2
