@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-scikit-learn
+scikit-learn==1.3.2
 matplotlib
 seaborn
 xgboost
@@ -9,4 +9,3 @@ imbalanced-learn
 plotly
 folium
 streamlit-folium
-scikit-learn==1.3.2
