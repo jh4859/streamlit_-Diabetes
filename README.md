@@ -1,5 +1,3 @@
-# streamlit_-Diabetes
-# 사이트주소
 # 회귀분석을 이용한 당뇨병 예측 프로젝트
 https://app-diabetes-bymjxavipkbpwez6bdecha.streamlit.app/
 
